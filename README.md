@@ -1,6 +1,8 @@
 # Simple-online-file-management-system
 
 ## 1. 简介
+[我的博客有此项目更加详细的介绍，欢迎访问！](https://blog.csdn.net/weixin_44870909?spm=1000.2115.3001.5113)
+
 这是基于SpringBoot开发的线上文件管理，适合小白用来入门学习SpringBoot。
 项目中提供了数据库所需的SQL语句。
 ## 2. 功能介绍
